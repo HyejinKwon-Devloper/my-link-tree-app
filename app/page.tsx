@@ -35,7 +35,7 @@ export default function Home() {
             >
               <Image
                 src={instagram}
-                alt="Vercel logomark"
+                alt="Instagram Mark"
                 width={20}
                 height={20}
               />
@@ -49,12 +49,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image
-                src={youtube}
-                alt="Vercel logomark"
-                width={20}
-                height={20}
-              />
+              <Image src={youtube} alt="youtube mark" width={20} height={20} />
               youtube
             </a>
           </li>
@@ -65,8 +60,8 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <Image src={blog} alt="Vercel logomark" width={20} height={20} />
-              blog
+              <Image src={blog} alt="Naver Blog Mark" width={20} height={20} />
+              naver blog
             </a>
           </li>
         </ul>
