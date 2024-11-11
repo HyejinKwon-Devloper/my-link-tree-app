@@ -19,8 +19,12 @@ export default function Home() {
           />
           <span>@_enjoy.jin</span>
           <div className="flex max-w-[270px]">
-            <span className="text-wrap">
-              안녕하세요😀글로벌하게 여행하는 것을 좋아하는 월드와이드찐입니다❤
+            <span className="text-wrap text-center">
+              안녕하세요😀
+              <br />
+              글로벌하게 여행하는 것을 좋아하는
+              <br />
+              월드와이드찐입니다❤
             </span>
           </div>
         </div>
