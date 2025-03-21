@@ -72,17 +72,8 @@ export default function Home() {
       </main>
       <footer>
         <div className="flex flex-nowrap gap-2 md:text-wrap">
-          <div className="flex flex-none">
-            <Image
-              aria-hidden
-              src="https://nextjs.org/icons/file.svg"
-              alt="File icon"
-              width={16}
-              height={16}
-            />
-          </div>
           <div className="flex flex-shrink-0">
-            <p className="text-nowrap text-xs sm:text-xs md:text-sm lg:text-base ">
+            <p className="text-nowrap text-xs sm:text-xs md:text-sm lg:text-base">
               Copyright ©월드와이드찐. All Rights Reserved.
             </p>
           </div>
